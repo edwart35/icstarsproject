@@ -48,7 +48,7 @@ function StudentLogIn(props) {
         <br/>
         <br/>
         <Container component="main" maxWidth="xs">
-          <img className="logo" src={logo} width="340vw" height="160vh"></img>
+          <img className="logo" width="340vw" height="160vh"></img>
           <h3>{props.type} Log In</h3>
           <CssBaseline />
             <div className={classes.margin}>
